@@ -7,6 +7,7 @@ const nextConfig = {
   },
   output: 'export',
   trailingSlash: true,
+  basePath: '/Nicovaz.tech', // Importante para GitHub Pages
   // Configuración para producción
   env: {
     HOSTINGER: 'true'
