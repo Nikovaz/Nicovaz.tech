@@ -26,8 +26,8 @@ const Projects = () => {
       solution: 'NICOVAZ implementó una interfaz intuitiva con sistema de reservas y gestión de citas utilizando React y un diseño completamente responsive.',
       technologies: ['React', 'HTML', 'CSS', 'JavaScript'],
       image: '/images/CorteCanino.png',
-      url: 'https://nico.github.io/PeluqueriaCaninaMartino/',
-      github: 'https://github.com/Nico/PeluqueriaCaninaMartino.git'
+      url: 'https://nikovaz.github.io/PeluqueriaCaninaMartino/',
+      github: 'https://github.com/Nikovaz/PeluqueriaCaninaMartino.git'
     },
     {
       id: 2,
@@ -36,8 +36,8 @@ const Projects = () => {
       solution: 'Diseñé y desarrollé un sitio web moderno y responsive utilizando HTML, CSS y JavaScript.',
       technologies: ['HTML', 'CSS', 'JavaScript', 'Batchfile'],
       image: '/images/serviceCelularLogo.png',
-      url: 'https://tienda-matias-vazquez-ju7m.vercel.app/',
-      github: 'https://github.com/Nico/TiendaPibeMV.git'
+      url: 'https://nikovaz.github.io/ServiceMobileMatias/',
+      github: 'https://github.com/Nikovaz/ServiceMobileMatias.git'
     },
     {
       id: 3,
@@ -46,8 +46,8 @@ const Projects = () => {
       solution: 'Implementé un sistema de gestión de pedidos y seguimiento de envíos utilizando React Native, Firebase y Redux.',
       technologies: ['React Native', 'Firebase', 'Redux', 'Express'],
       image: '/images/logoChamon.png',
-      url: 'https://nico.github.io/chamon/',
-      github: 'https://github.com/Nico/chamon.git'
+      url: 'https://nikovaz.github.io/chamon/',
+      github: 'https://github.com/Nikovaz/chamon.git'
     },
     {
       id: 4,
@@ -56,8 +56,8 @@ const Projects = () => {
       solution: 'Diseñé y desarrollé un sitio web moderno y responsive utilizando HTML, CSS y JavaScript.',
       technologies: ['CSS', 'HTML', 'JavaScript'],
       image: '/images/andrea.png',
-      url: 'https://nico.github.io/portafolioAndreaDelgado/',
-      github: 'https://github.com/Nico/portafolioAndreaDelgado'
+      url: 'https://nikovaz.github.io/portafolioAndreaDelgado/',
+      github: 'https://github.com/Nikovaz/portafolioAndreaDelgado.git'
     },
     {
       id: 5,
@@ -66,8 +66,8 @@ const Projects = () => {
       solution: 'Implementé un sistema de gestión de usuarios y pedidos utilizando Next.js, Tailwind CSS, GraphQL y PostgreSQL.',
       technologies: ['Next.js', 'Tailwind CSS', 'GraphQL', 'PostgreSQL'],
       image: '/images/Backend2.png',
-      url: 'https://nico.github.io/PreentregaBackend2.NicolasGV/',
-      github: 'https://github.com/Nico/PreentregaBackend2.NicolasGV.git'
+      url: 'https://nikovaz.github.io/PreentregaBackend2.NicolasGV/',
+      github: 'https://github.com/Nikovaz/PreentregaBackend2.NicolasGV.git'
     },
     {
       id: 6,
@@ -76,7 +76,7 @@ const Projects = () => {
       solution: 'Implementé un sistema de gestión de productos y carritos de compras utilizando JavaScript y Socket.IO.',
       technologies: ['JavaScript'],
       image: '/images/Backend1.png',
-      github: 'https://github.com/Nico/entregaFinalBackend1.NicolasGalarzaVazquez.git'
+      github: 'https://github.com/Nikovaz/entregaFinalBackend1.NicolasGalarzaVazquez.git'
     },
     {
       id: 7,
@@ -86,7 +86,7 @@ const Projects = () => {
       technologies: ['CSS', 'HTML', 'JavaScript'],
       image: '/images/React.png',
       url: 'https://proyectofinal-react-galarza-vazquez-1lrx-ptn1mr00t.vercel.app/',
-      github: 'https://github.com/Nico/Proyectofinal.react.GalarzaVazquez.git'
+      github: 'https://github.com/Nikovaz/Proyectofinal.react.GalarzaVazquez.git'
     },
     {
       id: 8,
@@ -95,7 +95,7 @@ const Projects = () => {
       solution: 'Implementé un sistema de gestión de tareas utilizando JavaScript y un diseño completamente responsive.',
       technologies: ['CSS', 'HTML', 'JavaScript'],
       image: '/images/JS.png',
-      github: 'https://github.com/Nico/ProyentoFinal.JS.Galarza.vazquez.git'
+      github: 'https://github.com/Nikovaz/ProyentoFinal.JS.Galarza.vazquez.git'
     },
     {
       id: 9,
@@ -104,8 +104,8 @@ const Projects = () => {
       solution: 'Implementé un sistema de gestión de productos utilizando HTML, CSS y JavaScript.',
       technologies: ['HTML', 'SCSS'],
       image: '/images/gardel.png',
-      url: 'https://pre-entrega3-galarza-vazquez.vercel.app/',
-      github: 'https://github.com/Nico/PF.GalarzaVazquez.git'
+      url: 'https://pre-entrega3-galarza-vazquez.vercel.app/discografia.html',
+      github: 'https://github.com/Nikovaz/PF.GalarzaVazquez.git'
     }
   ];
 
