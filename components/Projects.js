@@ -25,7 +25,7 @@ const Projects = () => {
       challenge: 'Desarrollar una página web moderna y responsive para un servicio de peluquería canina con servicio a domicilio.',
       solution: 'NICOVAZ implementó una interfaz intuitiva con sistema de reservas y gestión de citas utilizando React y un diseño completamente responsive.',
       technologies: ['React', 'HTML', 'CSS', 'JavaScript'],
-      image: './public/images/CorteCanino.png',
+      image: '../public/images/CorteCanino.png',
       url: 'https://nikovaz.github.io/PeluqueriaCaninaMartino/',
       github: 'https://github.com/Nikovaz/PeluqueriaCaninaMartino.git'
     },
@@ -35,7 +35,7 @@ const Projects = () => {
       challenge: 'Desarrollar un sitio web para un servicio técnico de reparación de celulares.',
       solution: 'Diseñé y desarrollé un sitio web moderno y responsive utilizando HTML, CSS y JavaScript.',
       technologies: ['HTML', 'CSS', 'JavaScript', 'Batchfile'],
-      image: './public/images/serviceCelularLogo.png',
+      image: '../public/images/serviceCelularLogo.png',
       url: 'https://nikovaz.github.io/ServiceMobileMatias/',
       github: 'https://github.com/Nikovaz/ServiceMobileMatias.git'
     },
@@ -45,7 +45,7 @@ const Projects = () => {
       challenge: 'Desarrollar un sitio web para un servicio de mensajería especializado en envíos para vendedores de Mercado Libre Flex en CABA y AMBA (Argentina).',
       solution: 'Implementé un sistema de gestión de pedidos y seguimiento de envíos utilizando React Native, Firebase y Redux.',
       technologies: ['React Native', 'Firebase', 'Redux', 'Express'],
-      image: './public/images/logoChamon.png',
+      image: '../public/images/logoChamon.png',
       url: 'https://nikovaz.github.io/chamon/',
       github: 'https://github.com/Nikovaz/chamon.git'
     },
@@ -55,7 +55,7 @@ const Projects = () => {
       challenge: 'Desarrollar un sitio web para un portafolio de una diseñadora gráfica.',
       solution: 'Diseñé y desarrollé un sitio web moderno y responsive utilizando HTML, CSS y JavaScript.',
       technologies: ['CSS', 'HTML', 'JavaScript'],
-      image: './public/images/andrea.png',
+      image: '../public/images/andrea.png',
       url: 'https://nikovaz.github.io/portafolioAndreaDelgado/',
       github: 'https://github.com/Nikovaz/portafolioAndreaDelgado.git'
     },
@@ -65,7 +65,7 @@ const Projects = () => {
       challenge: 'Desarrollar una aplicación de ecommerce que incluya un sistema de gestión de usuarios con autenticación y autorización.',
       solution: 'Implementé un sistema de gestión de usuarios y pedidos utilizando Next.js, Tailwind CSS, GraphQL y PostgreSQL.',
       technologies: ['Next.js', 'Tailwind CSS', 'GraphQL', 'PostgreSQL'],
-      image: './public/images/Backend2.png',
+      image: '../public/images/Backend2.png',
       url: 'https://nikovaz.github.io/PreentregaBackend2.NicolasGV/',
       github: 'https://github.com/Nikovaz/PreentregaBackend2.NicolasGV.git'
     },
@@ -75,7 +75,7 @@ const Projects = () => {
       challenge: 'Desarrollar una aplicación de backend que permita gestionar productos y carritos de compras.',
       solution: 'Implementé un sistema de gestión de productos y carritos de compras utilizando JavaScript y Socket.IO.',
       technologies: ['JavaScript'],
-      image: './public/images/Backend1.png',
+      image: '../public/images/Backend1.png',
       github: 'https://github.com/Nikovaz/entregaFinalBackend1.NicolasGalarzaVazquez.git'
     },
     {
@@ -84,7 +84,7 @@ const Projects = () => {
       challenge: 'Desarrollar un sitio web de ecommerce para la venta de boxers y medias de alta calidad.',
       solution: 'Implementé un sistema de gestión de productos y pedidos utilizando React y un diseño completamente responsive.',
       technologies: ['CSS', 'HTML', 'JavaScript'],
-      image: './public/images/React.png',
+      image: '../public/images/React.png',
       url: 'https://proyectofinal-react-galarza-vazquez-1lrx-ptn1mr00t.vercel.app/',
       github: 'https://github.com/Nikovaz/Proyectofinal.react.GalarzaVazquez.git'
     },
@@ -94,7 +94,7 @@ const Projects = () => {
       challenge: 'Desarrollar un sitio web que permita gestionar una lista de tareas.',
       solution: 'Implementé un sistema de gestión de tareas utilizando JavaScript y un diseño completamente responsive.',
       technologies: ['CSS', 'HTML', 'JavaScript'],
-      image: './public/images/JS.png',
+      image: '../public/images/JS.png',
       github: 'https://github.com/Nikovaz/ProyentoFinal.JS.Galarza.vazquez.git'
     },
     {
@@ -103,7 +103,7 @@ const Projects = () => {
       challenge: 'Desarrollar un sitio web que permita gestionar una lista de productos.',
       solution: 'Implementé un sistema de gestión de productos utilizando HTML, CSS y JavaScript.',
       technologies: ['HTML', 'SCSS'],
-      image: './public/images/gardel.png',
+      image: '../public/images/gardel.png',
       url: 'https://pre-entrega3-galarza-vazquez.vercel.app/discografia.html',
       github: 'https://github.com/Nikovaz/PF.GalarzaVazquez.git'
     }
