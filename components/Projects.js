@@ -15,9 +15,8 @@ const Projects = () => {
       challenge: 'Desarrollar una agencia de automatización integral, desde la infraestructura técnica de agentes conversacionales hasta la identidad visual y estrategia comercial.',
       solution: 'Implementé agentes conversacionales autónomos con n8n y LLMs (GPT-4o, Gemini), sistema de "Buffer de Memoria" con Redis, y una landing page "Tech Hive" de alta conversión.',
       technologies: ['n8n', 'Redis', 'OpenAI API', 'Gemini', 'WhatsApp API', 'React', 'Tailwind CSS'],
-      image: '/Nicovaz.tech/images/nikopage.png', // Placeholder image
-      url: '#', // Placeholder URL
-      github: '#' // Placeholder URL
+      image: '/Nicovaz.tech/images/totodrilo.png',
+      url: 'https://totodrilo.tech/'
     },
     {
       id: 1,
