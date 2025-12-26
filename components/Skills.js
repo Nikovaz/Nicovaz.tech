@@ -48,7 +48,7 @@ const Skills = () => {
     {
       name: 'IA y Automatización',
       techs: [
-        { name: 'n8n', icon: '/images/n8n copy.png' },
+        { name: 'n8n', icon: '/images/n8n.png' },
         { name: 'OpenAI / GPT-4o', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg' },
         { name: 'Gemini', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg' },
         { name: 'Claude / Anthropic', icon: '/images/META copy.png' },
