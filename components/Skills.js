@@ -49,10 +49,10 @@ const Skills = () => {
       name: 'IA y Automatización',
       techs: [
         { name: 'n8n', icon: '/Nicovaz.tech/images/n8n.png' },
-        { name: 'OpenAI / GPT-4o', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg' },
+        { name: 'OpenAI', icon: '/Nicovaz.tech/images/openai.png' },
         { name: 'Gemini', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg' },
-        { name: 'Claude / Anthropic', icon: '/Nicovaz.tech/images/meta.png' },
-        { name: 'DeepSeek', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' },
+        { name: 'Claude / Anthropic', icon: '/Nicovaz.tech/images/claude.png' },
+        { name: 'DeepSeek', icon: '/Nicovaz.tech/images/deepseek-color.png' },
         { name: 'Chatwoot', icon: '/Nicovaz.tech/images/chatwoot.png' }
       ]
     },
@@ -66,7 +66,7 @@ const Skills = () => {
         { name: 'Google Sheets API', icon: '/Nicovaz.tech/images/sheet.png' },
         { name: 'Google Drive API', icon: '/Nicovaz.tech/images/google-drive.png' },
         { name: 'Gmail API', icon: '/Nicovaz.tech/images/gmail.png' },
-        { name: 'Hostinger VPS', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hostinger/hostinger-original.svg' }
+        { name: 'Hostinger VPS', icon: '/Nicovaz.tech/images/hostinger.png' }
       ]
     }
   ];
