@@ -48,12 +48,12 @@ const Skills = () => {
     {
       name: 'IA y Automatización',
       techs: [
-        { name: 'n8n', icon: '/images/n8n.png' },
+        { name: 'n8n', icon: '/Nicovaz.tech/images/n8n.png' },
         { name: 'OpenAI / GPT-4o', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg' },
         { name: 'Gemini', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg' },
-        { name: 'Claude / Anthropic', icon: '/images/META copy.png' },
+        { name: 'Claude / Anthropic', icon: '/Nicovaz.tech/images/meta.png' },
         { name: 'DeepSeek', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' },
-        { name: 'Chatwoot', icon: '/images/WHATSAAP.png' }
+        { name: 'Chatwoot', icon: '/Nicovaz.tech/images/chatwoot.png' }
       ]
     },
     {
@@ -61,11 +61,11 @@ const Skills = () => {
       techs: [
         { name: 'Google Cloud', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg' },
         { name: 'Firebase', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' },
-        { name: 'WhatsApp Business API', icon: '/images/WHATSAAP.png' },
-        { name: 'Ycloud', icon: '/images/WHATSAAP.png' },
-        { name: 'Google Sheets API', icon: '/images/sheet.png' },
-        { name: 'Google Drive API', icon: '/images/google drive.png' },
-        { name: 'Gmail API', icon: '/images/gmail.png' },
+        { name: 'WhatsApp Business API', icon: '/Nicovaz.tech/images/whatsapp-business.png' },
+        { name: 'Ycloud', icon: '/Nicovaz.tech/images/WHATSAAP.png' },
+        { name: 'Google Sheets API', icon: '/Nicovaz.tech/images/sheet.png' },
+        { name: 'Google Drive API', icon: '/Nicovaz.tech/images/google-drive.png' },
+        { name: 'Gmail API', icon: '/Nicovaz.tech/images/gmail.png' },
         { name: 'Hostinger VPS', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hostinger/hostinger-original.svg' }
       ]
     }
