@@ -118,7 +118,7 @@ const Hero = () => {
 
         <motion.h1
           ref={titleRef}
-          className="text-5xl md:text-8xl font-bold mb-6 tracking-tight"
+          className="text-4xl md:text-8xl font-bold mb-6 tracking-tight px-4"
           variants={childVariants}
         >
           Soluciones Web y Automatización con IA para Potenciar tu Negocio
